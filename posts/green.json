@@ -1,0 +1,78 @@
+{
+    "id": "nRHaEe",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/press_release/landing_image/233/Jawa-Forty-Two-Galactic-Green-Colour-42.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa Forty Two Galactic Green Colour Is Stunningly Eye-Catching! ",
+                        "style": {
+                            "fontFamily": "Lato-Regular",
+                            "fontSize": 15,
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2360
+                    }
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "DECEMBER 28, 2018 / Gaadi Waadi",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "fontWeight": "bold",
+                "fontSize":13,
+                "marginLeft": 10,
+                "marginVertical": 10
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "After more than two decades of absence, Jawa Motorcycles broke into the domestic scenes with a bang by showcasing three products on November 15. As initially vowed, the Czech brand led by Mahindra Group that owns Classic Legends Private Limited, dealerships are being established across the country as more than 100 showrooms are planned by February 2019. \n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "The reception of the Jawa and Forty Two is so well that the brand has stopped online bookings already. The duo are sold out till September 2019 and interested customers can still pre-order them at authorised dealerships for Rs. 5,000 but deliveries will only be made after September. It would be interesting if Jawa had revealed the current booking and production numbers, but nothing official has been made yet.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        
+        {
+            "type": "text",
+            "text": "The Jawa Forty Two is the entry-level motorcycle and is less of a classic roadster than its Jawa sibling. Priced at Rs. 1.55 lakh (ex-showroom), Jawa responded to customers’ expectations and introduced the rear disc with dual-channel ABS system for additional price of around Rs. 9,000 recently. \nThe Forty Two can be had in several different colour choices such as Halley’s Teal, Galactic Green, Starlight Blue, Lumos Lime, Nebula Blue and Comet Red. The matte Galactic Green colour, in particular, is highly attractive on the Forty Two, and Jawa compared it to being omnipresent as nature and the feeling of zen that engulfs you the moment when eyes are feasted on it.\nThe Forty Two has aggressive rider’s triangle when compared to the regular Jawa classic as the handlebar is positioned more upright. The motorcycle is tuned to deliver committed riding targetting youngsters seeking a daily commute and it derives power from a 293 cc, four-stroke, single-cylinder, liquid-cooled DOHC engine.\nIt is good enough to develop a maximum power output of 27 bhp and 28 Nm of peak torque and is connected to a six-speed constant mesh gearbox. The Jawa Forty Two tips the weighing scale at around 170 kilograms and it features seat height of 765 mm with fuel tank capacity capable of holding 14 litres. The motorcycle runs on 90/90-18 front and 120/80-17 rear tyres.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        }
+    ]
+}
+    

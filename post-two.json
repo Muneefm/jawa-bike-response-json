@@ -1,0 +1,83 @@
+{
+    "id": "post-two",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "text",
+            "text": "Jawa Motorcycles India Makes A Glorious Comeback",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "textAlign": "center", 
+                "fontWeight": "bold",
+                "fontSize":20,
+                "marginHorizontal":20,
+                "marginVertical": 40
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "NOVEMBER 15, 2018",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "fontWeight": "bold",
+                "fontSize":13,
+                "marginLeft": 10,
+                "marginVertical": 10
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "Jawa Enthusiasts across the nation rejoice as the legendary brand Jawa makes a glorious comeback in India. The yesteryear star-brand has now made a grande re entry into the market with the launch of two retro styled motorcycles- the Jawa and Jawa forty two. These machines boast of new age technologies in their engines and underpinnings while still retaining the authentic Jawa character within, that brings about a soothing balance between performance, capability and quality.. \n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+       
+        {
+            "type": "text",
+            "text": "The duo comes powered by an all new  293cc, liquid cooled, single cylinder, DOHC engine and is built upon a double cradle chassis, tuned to bring out the classic riding thrills. The mill is so tuned as to produce a healthy 27bhp of power and 28Nm of torque. Both the bikes have been designed to recreate the iconic ‘Jawa exhaust music’. Thus, these are evidently the true modern classics of the day.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Review: Jawa and Forty Two",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "right",
+                    "content": "If you haven’t picked up on the launch and the social media trend already, don’t worry, you did read the headline right. It does say Jawa, the same one your father/ uncle loved and adored, or, in case you from the minority that visits our website, the one you owned a long time ago. As Classic Legends says, the company responsible for this exercise, Jawa is back. We’ve seen images, we know the names they have chosen for the range - Jawa and the FortyTwo, with the Perak to follow later,  we’ve even had the important numbers announced. In case you had missed that, the Forty Two will retail at Rs 1.55 lakh, while the Jawa will be Rs 1.64 lakh (ex-showroom). On with the rest of the details then.",
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/28/features-42-speedometer.jpg",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-three"
+                        }
+                    },
+                    "author": "14 DECEMBER, 2018 / TOPGEAR"
+                }
+            ]
+        }
+    ]
+}
+    

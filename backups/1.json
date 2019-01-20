@@ -1,0 +1,191 @@
+{
+    "id": "nRHaEe",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/13/hero-banner_2x__1_.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa Motorcycles ",
+                        "style": {
+                            "fontSize": 15,
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2160
+                    },
+                    "action": {
+                        "type": "OPEN_PRODUCT",
+                        "params": {
+                            "id": 37
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "grid",
+            "title": "Jawa Motorcycles",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/listing_image/1/jawa-product-hero-1.jpg",
+                    "title": "Jawa",
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "jawa"
+                        }
+                    }
+                },
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/banner_image/2/jawa-42-product-hero.jpg",
+                    "title": "Jawa forty two",
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "forty-eight"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "2018 Jawa, Jawa Forty Two review, Test ride",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "For starters, they really do look quite lovely. To quickly bring you up to speed, Jawa ‘launched’ three bikes last month, but the more powerful, bobber-style Perak won’t be ready for sale till about August 2019. The Jawa and the Jawa Forty Two, meanwhile, will reach showrooms shortly and these are the bikes you’ll be reading about here. The Jawa is a fervently faithful recreation of the original Type 353 model, and it’s instantly recognisable, right to the point that villagers on the highway in Rajasthan came up and asked when Jawa had returned. That kind of recognition of a product from people who probably have no connectivity to the internet and no real interest in new motorcycles is something I’ve never seen before.",
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/29/features-jawa-tank.jpg",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-one"
+                        }
+                    },
+                    "author": "14 DECEMBER, 2018 / AUTOCAR INDIA "
+                }
+            ]
+        },
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Jawa Motorcycles India Makes A Glorious Comeback",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "The duo comes powered by an all new  293cc, liquid cooled, single cylinder, DOHC engine and is built upon a double cradle chassis, tuned to bring out the classic riding thrills. The mill is so tuned as to produce a healthy 27bhp of power and 28Nm of torque. Both the bikes have been designed to recreate the iconic ‘Jawa exhaust music’. Thus, these are evidently the true modern classics of the day.",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-two"
+                        }
+                    },
+                    "author": "NOVEMBER 15, 2018"
+                }
+            ]
+        },
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Review: Jawa and Forty Two",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "right",
+                    "content": "If you haven’t picked up on the launch and the social media trend already, don’t worry, you did read the headline right. It does say Jawa, the same one your father/ uncle loved and adored, or, in case you from the minority that visits our website, the one you owned a long time ago. As Classic Legends says, the company responsible for this exercise, Jawa is back. We’ve seen images, we know the names they have chosen for the range - Jawa and the FortyTwo, with the Perak to follow later,  we’ve even had the important numbers announced. In case you had missed that, the Forty Two will retail at Rs 1.55 lakh, while the Jawa will be Rs 1.64 lakh (ex-showroom). On with the rest of the details then.",
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/28/features-42-speedometer.jpg",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-three"
+                        }
+                    },
+                    "author": "14 DECEMBER, 2018 / TOPGEAR"
+                }
+            ]
+        },
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/listing_image/1/jawa-product-hero-1.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa  ",
+                        "style": {
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2400
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "jawa"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/banner_image/2/jawa-42-product-hero.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa forty two ",
+                        "style": {
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2400
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "forty-eight"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "id": "nRHaEe",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/ckeditor/pictures/60/jawa42-headlight.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Review: Jawa and Forty Two ",
+                        "style": {
+                            "fontFamily": "Lato-Regular",
+                            "fontSize": 15,
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3200,
+                        "height":2400
+                    }
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "14 DECEMBER, 2018 / TOPGEAR",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "fontWeight": "bold",
+                "fontSize":13,
+                "marginLeft": 10,
+                "marginVertical": 10
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "If you haven’t picked up on the launch and the social media trend already, don’t worry, you did read the headline right. It does say Jawa, the same one your father/ uncle loved and adored, or, in case you from the minority that visits our website, the one you owned a long time ago. As Classic Legends says, the company responsible for this exercise, Jawa is back. We’ve seen images, we know the names they have chosen for the range - Jawa and the FortyTwo, with the Perak to follow later,  we’ve even had the important numbers announced. In case you had missed that, the Forty Two will retail at Rs 1.55 lakh, while the Jawa will be Rs 1.64 lakh (ex-showroom). On with the rest of the details then. \n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Styling",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"black",
+                "fontWeight": "bold",
+                "fontSize":15,
+                "marginHorizontal": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Both motorcycles you have seen pictures of are essentially styling jobs. The Jawa Jawa, no it isn’t a typo, is as classic as you can possibly be. The design team has decided to hang on to so many details from the original motorcycle. The stance is bigger, thanks to the 18-inch front and 17-inch rear wheel, but the colours are from a pallet that screams classic, the dial has been integrated into the headlamp casing and the twin exhausts have typical narrowing exits. There’s plenty of chrome and pinstripes on the Jawa and even the seat has been fashioned to look like it was made a couple of decades ago. With the Forty Two, the chrome bits are swapped for blacked out parts, the tank has no chrome and the front has a more traditional set up with the handlebar and headlamp units separated and the dial housed as a separate pod. The brushed plastic finish around the utility boxes is possibly the only bit that looks out of place. And while pinstripes are great, they may have overdone it a little bit.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Ride and handling",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"black",
+                "fontWeight": "bold",
+                "fontSize":15,
+                "marginHorizontal": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Having ridden over some rough patches, dirt tracks and smooth open highways, it is fair to say that the Jawa soaks up a lot that the surface throws at it. It is geared for soft springs, but the rear has a five-step adjustment if you would like to firm up the set up. With the set up dialled to the softest setting, the Jawa manages to remain comfortable at low speeds. As you go quicker, it makes for a slightly floaty feeling - exactly when the firmed up rear helps. The chassis manages to hold lines without trouble and it felt alright even through some stiff crosswinds. However, with the hard seat and the stiffer springs, rough roads become taxing as bumps tend to be transmitted straight up your spine.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        }
+    ]
+}
+    

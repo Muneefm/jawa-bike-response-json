@@ -1,0 +1,56 @@
+{
+    "id": "post-two",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "text",
+            "text": "Most Searched Bikes And Scooters In India 2018",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "textAlign": "center", 
+                "fontWeight": "bold",
+                "fontSize":20,
+                "marginHorizontal":20,
+                "marginVertical": 40
+            }
+        },
+        {
+            "type": "text",
+            "text": "DECEMBER 28, 2018 / Drivespark",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "fontWeight": "bold",
+                "fontSize":13,
+                "marginLeft": 10,
+                "marginVertical": 10
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "The list of Google's top-trending two-wheelers (bikes & scooters) for the year 2018 shows that the Jawa motorcycles have created the maximum interest in the Indian market. Following the Jawa Motorcycles closely is the TVS Apache series in the second position. \n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+       
+        {
+            "type": "text",
+            "text": "If we see the top-selling two-wheelers in the Indian market, we can notice that the product with the highest sales figures doesn't need to be the most popular. Most of the bikes and scooters in the top-selling list are not even in Google's trending chart.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        }
+    ]
+}
+    

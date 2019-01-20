@@ -1,0 +1,88 @@
+{
+    "id": "nRHaEe",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/press_release/landing_image/232/248817-jawa-yezdi-bike.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa Yezdi riders to attend three-day event in Ratnagiri ",
+                        "style": {
+                            "fontFamily": "Lato-Regular",
+                            "fontSize": 15,
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":1280,
+                        "height":720
+                    }
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "DECEMBER 28, 2018 / Time of India",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "fontWeight": "bold",
+                "fontSize":13,
+                "marginLeft": 10,
+                "marginVertical": 10
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "PUNE: The Jawa Yezdi Owners’ Club, a national organization of like-minded bikers from across the country, will host the biggest three-day biking event in India at Ratnagiri from January 18. Already, more than 200 registrations have been received for the event. \n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Kaustubh Thengodkar, one of the organizers, will also be riding to Ratnagiri from Pune. “We will ride from Pune on January 18. There will be a group of around 30 people. This is an all-India meet for Jawa Yezdi motorcycle owners. We’ve been organizing this meet since 2016. Owners from different cities like Mumbai, Pune, Bengaluru, Satara, Kolhapur, New Delhi and from the Kanyakumari region will attend this event. We expect to have over 250 bikers at the event,” he said..\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "“This event has been in the making for a really long time. Riders from across India, who own bikes from the Jawa Yezdi family, will be at the meeting,” said Yogesh Acharya, one of the participating bikers. \nAcharya, who works as an assistant manager at an international cycle store, said, “A year-and-a-half ago, we had met at Hampi and talked about organizing the next meeting. So many people own these old bikes and it’s interesting to discuss how we got them in our families or came about owning one. There are people who have learned how to ride a motorcycle on a Jawa and are still riding the very same bike. It’s a great place for all these like-minded people together.”.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Acharya will be riding his own 1969 Jawa to the event.\n\n“I have a 1969 Jawa that my father had bought. It’s been in the family for over 40 years. We’re the second generation owners. I’m very excited to see the new Jawa,” he said.\nThengodkar added that since these motorcycles weren’t in production for a very long time, their numbers have dwindled. \n“It’s a very small community that exists. Getting around 250 people and making them ride so far is a big event in itself. These machines are all more than 30 to 40 years old,” he said.\nHe said the new bikes will be available for display and test drives at the event. “Since the deliveries are only starting from March, we expect new owners to attend the next event,” he said.\n“There is renewed interest in these bikes as the new Jawa bike was launched just recently,” Acharya said.\nThe very first Jawa showrooms in the country were opened in the city on December 15.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        }
+    ]
+}
+    

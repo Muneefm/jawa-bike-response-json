@@ -1,0 +1,269 @@
+{
+    "id": "nRHaEe",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/13/hero-banner_2x__1_.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa Motorcycles ",
+                        "style": {
+                            "fontSize": 15,
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2160
+                    },
+                    "action": {
+                        "type": "OPEN_PRODUCT",
+                        "params": {
+                            "id": 37
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "grid",
+            "title": "Jawa Motorcycles",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/listing_image/1/jawa-product-hero-1.jpg",
+                    "title": "Jawa",
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "jawa"
+                        }
+                    }
+                },
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/banner_image/2/jawa-42-product-hero.jpg",
+                    "title": "Jawa forty two",
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "forty-eight"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Most Searched Bikes And Scooters In India 2018",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "The list of Google's top-trending two-wheelers (bikes & scooters) for the year 2018 shows that the Jawa motorcycles have created the maximum interest in the Indian market. Following the Jawa Motorcycles closely is the TVS Apache series in the second position.",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "most-searched"
+                        }
+                    },
+                    "author": "DECEMBER 28, 2018 / Drivespark"
+                }
+            ]
+        },
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Jawa Yezdi riders to attend three-day event in Ratnagiri",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "PUNE: The Jawa Yezdi Owners’ Club, a national organization of like-minded bikers from across the country, will host the biggest three-day biking event in India at Ratnagiri from January 18. Already, more than 200 registrations have been received for the event.",
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/press_release/landing_image/232/248817-jawa-yezdi-bike.jpg",
+                    "dimensions":{
+                        "width":1280,
+                        "height":720
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-one"
+                        }
+                    },
+                    "author": "DECEMBER 28, 2018 / Time of India "
+                }
+            ]
+        },
+        
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Jawa Forty Two Galactic Green Colour Is Stunningly Eye-Catching!",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "After more than two decades of absence, Jawa Motorcycles broke into the domestic scenes with a bang by showcasing three products on November 15. As initially vowed, the Czech brand led by Mahindra Group that owns Classic Legends Private Limited, dealerships are being established across the country as more than 100 showrooms are planned by February 2019.",
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/press_release/landing_image/233/Jawa-Forty-Two-Galactic-Green-Colour-42.jpg",
+                    "dimensions":{
+                        "width":1024,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-green"
+                        }
+                    },
+                    "author": "DECEMBER 28, 2018 / Gaadi Waadis"
+                }
+            ]
+        },
+        
+        {
+
+            "type": "post",
+            "template":"post-list-1",
+            "title": "2018 Jawa, Jawa Forty Two review, Test ride",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "For starters, they really do look quite lovely. To quickly bring you up to speed, Jawa ‘launched’ three bikes last month, but the more powerful, bobber-style Perak won’t be ready for sale till about August 2019. The Jawa and the Jawa Forty Two, meanwhile, will reach showrooms shortly and these are the bikes you’ll be reading about here. The Jawa is a fervently faithful recreation of the original Type 353 model, and it’s instantly recognisable, right to the point that villagers on the highway in Rajasthan came up and asked when Jawa had returned. That kind of recognition of a product from people who probably have no connectivity to the internet and no real interest in new motorcycles is something I’ve never seen before.",
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/29/features-jawa-tank.jpg",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-one"
+                        }
+                    },
+                    "author": "14 DECEMBER, 2018 / AUTOCAR INDIA "
+                }
+            ]
+        },
+        
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Review: Jawa and Forty Two",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "right",
+                    "content": "If you haven’t picked up on the launch and the social media trend already, don’t worry, you did read the headline right. It does say Jawa, the same one your father/ uncle loved and adored, or, in case you from the minority that visits our website, the one you owned a long time ago. As Classic Legends says, the company responsible for this exercise, Jawa is back. We’ve seen images, we know the names they have chosen for the range - Jawa and the FortyTwo, with the Perak to follow later,  we’ve even had the important numbers announced. In case you had missed that, the Forty Two will retail at Rs 1.55 lakh, while the Jawa will be Rs 1.64 lakh (ex-showroom). On with the rest of the details then.",
+                    "image": "https://storage.googleapis.com/jawadev/uploads/ckeditor/pictures/28/features-42-speedometer.jpg",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-three"
+                        }
+                    },
+                    "author": "14 DECEMBER, 2018 / TOPGEAR"
+                }
+            ]
+        },
+        {
+            "type": "post",
+            "template":"post-list-1",
+            "title": "Jawa Motorcycles India Makes A Glorious Comeback",
+            "data": [
+                {
+                    "view": "simple",
+                    "template":"template-1",
+                    "imageOrientation": "left",
+                    "content": "The duo comes powered by an all new  293cc, liquid cooled, single cylinder, DOHC engine and is built upon a double cradle chassis, tuned to bring out the classic riding thrills. The mill is so tuned as to produce a healthy 27bhp of power and 28Nm of torque. Both the bikes have been designed to recreate the iconic ‘Jawa exhaust music’. Thus, these are evidently the true modern classics of the day.",
+                    "dimensions":{
+                        "width":1200,
+                        "height":628
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "post-two"
+                        }
+                    },
+                    "author": "NOVEMBER 15, 2018"
+                }
+            ]
+        },
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/listing_image/1/jawa-product-hero-1.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa  ",
+                        "style": {
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2400
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "jawa"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/banner_image/2/jawa-42-product-hero.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " Jawa forty two ",
+                        "style": {
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2400
+                    },
+                    "action": {
+                        "type": "OPEN_IN_APP_PAGE",
+                        "params": {
+                            "id": "forty-eight"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

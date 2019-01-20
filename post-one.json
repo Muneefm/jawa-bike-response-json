@@ -1,0 +1,99 @@
+{
+    "id": "nRHaEe",
+    "title": "Test Page",
+    "widgets": [
+        {
+            "type": "banner",
+            "data": [
+                {
+                    "image": "https://storage.googleapis.com/jawaprod2/uploads/media/motorcycle/banner_image/1/jawa-hero.jpg",
+                    "title": "Test Page",
+                    "inline_text": {
+                        "text": " 2018 Jawa, Jawa Forty Two review, Test ride ",
+                        "style": {
+                            "fontFamily": "Lato-Regular",
+                            "fontSize": 15,
+                            "textAlign": "center",
+                            "color":"white",
+                            "fontWeight": "bold",
+                            "marginVertical": 10
+                        }
+                    },
+                    "dimensions":{
+                        "width":3680,
+                        "height":2360
+                    }
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text": "14 DECEMBER, 2018 / AUTOCAR INDIA",
+            "style":{
+                "fontFamily": "Roboto",
+                "color": "black",
+                "fontWeight": "bold",
+                "fontSize":13,
+                "marginLeft": 10,
+                "marginVertical": 10
+            }
+           
+        },
+        {
+            "type": "text",
+            "text": "The internet has been ablaze over the last few months over the topic of the new Jawas. Now, after reporting on every possible aspect of the motorcycles, apart from how they are to ride, we can finally share what they’re like away from the glare of indoor lights and out in the wild. \n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Eye candy",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"black",
+                "fontWeight": "bold",
+                "fontSize":15,
+                "marginHorizontal": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "For starters, they really do look quite lovely. To quickly bring you up to speed, Jawa ‘launched’ three bikes last month, but the more powerful, bobber-style Perak won’t be ready for sale till about August 2019. The Jawa and the Jawa Forty Two, meanwhile, will reach showrooms shortly and these are the bikes you’ll be reading about here. The Jawa is a fervently faithful recreation of the original Type 353 model, and it’s instantly recognisable, right to the point that villagers on the highway in Rajasthan came up and asked when Jawa had returned. That kind of recognition of a product from people who probably have no connectivity to the internet and no real interest in new motorcycles is something I’ve never seen before.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "Sound of music?",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"black",
+                "fontWeight": "bold",
+                "fontSize":15,
+                "marginHorizontal": 10
+            }
+        },
+        {
+            "type": "text",
+            "text": "What many are keen to know about is what the bike sounds like. Of course, the iconic two-stroke music of the old bike is impossible to recreate, but the new Jawas offers a nice and deep note that’s easy to like. We’ve noticed a lot of negative feedback from our walk-around videos of the bike’s sound, but I don’t think the videos do it justice and the bike sounds quite nice in person. It’s quite similar to the Mojo in this respect, but Classic Legends has revealed that they’ve designed the pipes such that the decibel killer inside can be moved forward or back, for more or less volume, by using a special tool. It can also be removed altogether, but I suspect that will attract undue attention from the authorities. That said, we’re given to understand that a lot of the sound deadening takes place in the cat-con box under the engine before the two exhaust pipes, so removing the DB killer entirely may not get annoyingly loud after all.\n",
+            "style":{
+                "fontFamily": "Lato-Light",
+                "color":"#99999c",
+                "fontSize":15,
+                "marginHorizontal": 10,
+                "marginVertical": 10
+            }
+        }
+    ]
+}
+    
